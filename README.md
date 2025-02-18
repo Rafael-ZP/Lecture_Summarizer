@@ -38,7 +38,7 @@ Lecture-Summarizer/
 ## 🚀 Installation & Setup
 1. Clone the repository:
 ```sh
-git clone https://github.com/Neerajjv/Lecture-Summarizer.git
+gh repo clone Rafael-ZP/Lecture_Summarizer
 cd Lecture-Summarizer	
 ```
 
